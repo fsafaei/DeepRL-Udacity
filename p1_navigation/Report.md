@@ -15,6 +15,6 @@ In this project a [dqn-agent](https://github.com/fsafaei/DeepRL-Udacity/blob/mas
 ### Results
 [Here](https://github.com/fsafaei/DeepRL-Udacity/blob/master/p1_navigation/Navigation.ipynb) is shown how the agent interacts with the environment and how it learns to perform better. The environment is supposed to be solved when the agent achieves a minimum average score of 13.0. The average scores are shwon during the agent training for 1000 episodes. The agent succeeded to solve the environment in 471 episodes by achieveing the average score of 13.03.
 
-![Training Process]()
+![Training Process](https://github.com/fsafaei/DeepRL-Udacity/blob/master/p1_navigation/navigation.png)
 
 Finally, the smart agent plays the game for 20 rounds and achieves an average score of 15.45.
