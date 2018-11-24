@@ -16,9 +16,9 @@ The environment simulates a space with 20 robot arams. To improve the learning p
 	BATCH_SIZE = 1024       # minibatch size
 	BUFFER_SIZE = int(1e6)  # replay buffer size
 ### Results
-[Here](https://github.com/fsafaei/DeepRL-Udacity/blob/master/p1_navigation/Navigation.ipynb) is shown how the agent interacts with the environment and how it learns to perform better. The environment is supposed to be solved when the agent achieves a minimum average score of 13.0. The average scores are shown during the agent training for 1000 episodes. The agent succeeded to solve the environment in 471 episodes by achieving the average score of 13.03.
+[Here](https://github.com/fsafaei/DeepRL-Udacity/blob/master/p2_continuous-control/Continuous_Control.ipynb) is shown how the agents interact with the environment and how they learn to perform better. The environment is supposed to be solved when the agents achieve a minimum average score of 30.0. The average scores are shown during the agents training for 150 episodes. The environment in solved in 29 episodes by achieving the average score of 30.20.
 
-![Training Process](https://github.com/fsafaei/DeepRL-Udacity/blob/master/p1_navigation/navigation.png)
+![Training Process](https://github.com/fsafaei/DeepRL-Udacity/blob/master/p2_continuous-control/Continuous%20Control.png)
 
 Finally, the smart agent plays the game for 20 rounds and achieves an average score of 15.45.
 
