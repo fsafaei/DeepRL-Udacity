@@ -17,7 +17,7 @@ The environment simulates two ping-pong players who can learn from each other’
 ### Results
 [Here]( https://github.com/fsafaei/DeepRL-Udacity/blob/master/p3_collab-compet/Tennis.ipynb) is shown how the agents interact with the environment and how they learn to perform better. The environment is supposed to be solved when the agents achieve a minimum average score of 0.5. The average scores are shown during the agents training for 2000 episodes. The environment in solved in 204 episodes by achieving the average score of 0.51.
 
-![Training Process]( https://github.com/fsafaei/DeepRL-Udacity/blob/master/p3_collab-compet/collab_compet.png)
+![Training Process]( https://github.com/fsafaei/DeepRL-Udacity/blob/master/p3_collab-compet/collab_compt.png)
 
 
 ### Future works:
